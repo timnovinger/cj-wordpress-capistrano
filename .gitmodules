@@ -1,0 +1,3 @@
+[submodule "themes/html5"]
+	path = themes/html5
+	url = https://github.com/murtaugh/HTML5-Reset-Wordpress-Theme.git
