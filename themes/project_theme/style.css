@@ -1,0 +1,10 @@
+/*
+ * Theme Name:     MyProject
+ * Description:    A child theme based upon the excellent HTML5-Reset-Wordpress-Theme
+ * Author:         ColorJar
+ * Author URI:     http://colorjar.com
+ * Template:       html5
+ * Version:        0.1.0
+ * */
+
+@import url("../html5/style.css");
